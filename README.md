@@ -16,6 +16,8 @@ This document explains how the anime dashboard data was preprocessed from the ra
 
 ---
 
+## Finished Site: https://tpaden1.github.io/anime-dashboard/
+
 ## Preprocessing Script
 
 ### File: `preprocess_data.py`
