@@ -465,3 +465,6 @@ This optimization enables:
 - Single-file deployment
 
 **The preprocessing makes the dashboard fast, efficient, and production-ready!** 🚀
+## Acknowledgements
+
+Some of the wording, section organization, and formatting of this README were refined with the help of ChatGPT, which I used as a writing assistant to make the documentation clearer and more readable.
